@@ -1,3 +1,3 @@
 <?php
-echo 'main-runoob';
+echo 'add-main-mergin';
 ?>
